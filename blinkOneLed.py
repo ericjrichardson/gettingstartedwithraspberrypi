@@ -8,7 +8,7 @@ from time import sleep # to permit us to SLEEEEEP!!!
 print("This is my \'Blink One LED\' script")
 print("Press <ctrl>+C to exit")
 
-# fix this comment
+# fix this comment, jackass
 GPIO.setmode(GPIO.BCM)
 
 # define pins
